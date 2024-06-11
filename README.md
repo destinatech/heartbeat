@@ -37,7 +37,7 @@ be defined for initialisation to succeed.
 
 ```bash
 (
-  instance_dir=/usr/local/destinatech/heartbeat-server
+  instance_dir=/usr/local/destinatech/heartbeat-client
   mkdir -p "$(dirname "$instance_dir")" &&
   git clone https://github.com/destinatech/heartbeat "$instance_dir" &&
   cd "$instance_dir" &&
