@@ -10,7 +10,7 @@ server.
 
 ## LICENSE
 
-GNU GPL (**version 2 only**)
+GPL-2.0
 
 ## INSTALLATION
 
